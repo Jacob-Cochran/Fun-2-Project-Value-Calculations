@@ -6,4 +6,4 @@ A repository to store the Python calculators used throughout the Fun 2 Project t
 
 #### Note
 
-Had this staged but completely forgot to commit this from local repository until after
+Had this staged but completely forgot to commit this from local repository.
